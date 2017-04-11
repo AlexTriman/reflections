@@ -10,3 +10,10 @@ How is the staging area different from the working directory and the repository?
 	using 'git add' command we add untracked files from the working directory to the staging area.
 	Repository is a collection of snapshoots of files stages.
 	
+How can you use the staging area to make sure you have one commit per logical change? 
+
+ 	I can add several files which have to be commited, and that makes sense for logical change
+
+ What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+ 	We should create branches when we want to add experimental code, change language version. It is possible later to marge two branches togather.
